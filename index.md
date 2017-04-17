@@ -1,6 +1,6 @@
 # Text Mining and Agriculture 
 
-Text mining is a mature technique that has been used in a number of fields such as Finance and Bio-Medicine. Text mining is underused in agriculture, and therefore to encourage research in this area the BrAgriNews Corpus is being released to the research community to encourage the development of NLP techniques for agriculture.
+Text mining is a mature technique that has been used in a number of fields such as Finance and Bio-Medicine. Text mining is underused in agriculture, and therefore to encourage research in this area the BrAgriNews Corpus is being released to the research community to encourage the development of NLP ( AgroNLP ) techniques for agriculture.
 
 ## Agriculture Text Mining Research
 
