@@ -8,7 +8,7 @@ This language resource was developed as part of the Post-Doctoral research of [B
 
 ## Corpus Details
 
-The Language Resource is [available from](https://www.dropbox.com/s/vz7f1wuiqlv4i5n/Corpus.7z?dl=0). Please cite [BrAgriNews: Um Corpus Temporal-Causal (Português-Brasileiro) para a Agricultura, Brett Drury, Robson Fernandes and Alneu Lopes, Linguamática, 2017] 
+The Language Resource is [available here](https://www.dropbox.com/s/vz7f1wuiqlv4i5n/Corpus.7z?dl=0). Please cite [BrAgriNews: Um Corpus Temporal-Causal (Português-Brasileiro) para a Agricultura, Brett Drury, Robson Fernandes and Alneu Lopes, Linguamática, 2017] 
 
 
 
